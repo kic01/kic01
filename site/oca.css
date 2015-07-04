@@ -1,0 +1,26 @@
+.answer {
+	font-size: 40px;
+	font-family: Verdana;
+	font-weight: bold;
+	width: 1.5em;
+	text-align: center;
+}
+
+/* #divPlus { */
+/* 	color: #00BB99; */
+/* 	background-color: #CCFFCC; */
+/* } */
+
+/* #divMid { */
+/* 	color: #666666; */
+/* 	background-color: #DDDDDD; */
+/* } */
+
+/* #divMinus { */
+/* 	color: #BB0000; */
+/* 	background-color: #FFCCCC; */
+/* } */
+
+.pAnswer {
+	width: 30px;
+}
