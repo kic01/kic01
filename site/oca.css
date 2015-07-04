@@ -20,7 +20,12 @@
 /* 	color: #BB0000; */
 /* 	background-color: #FFCCCC; */
 /* } */
+.pLocal {
+	width: 30px;
+	display: none;
+}
 
 .pAnswer {
 	width: 30px;
+	display: none;
 }
