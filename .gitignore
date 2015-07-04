@@ -14,3 +14,9 @@ hs_err_pid*
 *-v0*
 *tst*.*
 *tmp*.*
+.classpath
+.project
+.settings
+target
+pom.xml
+src
