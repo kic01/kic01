@@ -231,8 +231,8 @@
 				// storage.clear();
 
 				loadData();
-				$('.pLocal').hide();
-				$('.pAnswer').hide();
+				// $('.pLocal').hide();
+				// $('.pAnswer').hide();
 
 				// classInput.phoenix();
 

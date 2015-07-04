@@ -23,9 +23,11 @@
 .pLocal {
 	width: 30px;
 	display: none;
+	visibility: hidden;
 }
 
 .pAnswer {
 	width: 30px;
 	display: none;
+	visibility: hidden;
 }
