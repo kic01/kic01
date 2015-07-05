@@ -33,5 +33,5 @@
 }
 
 .question {
-	height: 3em; 
+	min-height: 6em; 
 }
