@@ -33,5 +33,6 @@
 }
 
 .question {
+	padding-top: 1em;
 	min-height: 6em; 
 }

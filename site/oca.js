@@ -146,7 +146,7 @@
 				}
 
 				function showQuestionDelayed() {
-					setTimeout(showQuestion, 200);
+					setTimeout(showQuestion, 50);
 				}
 
 				function getCurrentQuestion() {
